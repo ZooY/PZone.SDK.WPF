@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="CanExecute метод" Url="html/M_PZone_Wpf_Command_CanExecute.htm" />
+  <HelpKINode Title="CanExecuteChanged событие" Url="html/E_PZone_Wpf_Command_CanExecuteChanged.htm" />
+  <HelpKINode Title="Command - класс">
+    <HelpKINode Title="Command - класс" Url="html/T_PZone_Wpf_Command.htm" />
+    <HelpKINode Title="конструктор" Url="html/M_PZone_Wpf_Command__ctor.htm" />
+    <HelpKINode Title="методы" Url="html/Methods_T_PZone_Wpf_Command.htm" />
+    <HelpKINode Title="о Command - класс" Url="html/T_PZone_Wpf_Command.htm" />
+    <HelpKINode Title="события" Url="html/Events_T_PZone_Wpf_Command.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Command.CanExecute метод" Url="html/M_PZone_Wpf_Command_CanExecute.htm" />
+  <HelpKINode Title="Command.CanExecuteChanged событие" Url="html/E_PZone_Wpf_Command_CanExecuteChanged.htm" />
+  <HelpKINode Title="Command.Command конструктор" Url="html/M_PZone_Wpf_Command__ctor.htm" />
+  <HelpKINode Title="Command.Execute метод" Url="html/M_PZone_Wpf_Command_Execute.htm" />
+  <HelpKINode Title="Convert метод">
+    <HelpKINode Title="InvertedBooleanToVisibilityConverter.Convert - метод" Url="html/M_PZone_Wpf_Converters_InvertedBooleanToVisibilityConverter_Convert.htm" />
+    <HelpKINode Title="MathConverter.Convert - метод" Url="html/M_PZone_Wpf_Converters_MathConverter_Convert.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ConvertBack метод">
+    <HelpKINode Title="InvertedBooleanToVisibilityConverter.ConvertBack - метод" Url="html/M_PZone_Wpf_Converters_InvertedBooleanToVisibilityConverter_ConvertBack.htm" />
+    <HelpKINode Title="MathConverter.ConvertBack - метод" Url="html/M_PZone_Wpf_Converters_MathConverter_ConvertBack.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Execute метод" Url="html/M_PZone_Wpf_Command_Execute.htm" />
+  <HelpKINode Title="InvertedBooleanToVisibilityConverter - класс">
+    <HelpKINode Title="InvertedBooleanToVisibilityConverter - класс" Url="html/T_PZone_Wpf_Converters_InvertedBooleanToVisibilityConverter.htm" />
+    <HelpKINode Title="конструктор" Url="html/M_PZone_Wpf_Converters_InvertedBooleanToVisibilityConverter__ctor.htm" />
+    <HelpKINode Title="методы" Url="html/Methods_T_PZone_Wpf_Converters_InvertedBooleanToVisibilityConverter.htm" />
+    <HelpKINode Title="о InvertedBooleanToVisibilityConverter - класс" Url="html/T_PZone_Wpf_Converters_InvertedBooleanToVisibilityConverter.htm" />
+  </HelpKINode>
+  <HelpKINode Title="InvertedBooleanToVisibilityConverter.Convert метод" Url="html/M_PZone_Wpf_Converters_InvertedBooleanToVisibilityConverter_Convert.htm" />
+  <HelpKINode Title="InvertedBooleanToVisibilityConverter.ConvertBack метод" Url="html/M_PZone_Wpf_Converters_InvertedBooleanToVisibilityConverter_ConvertBack.htm" />
+  <HelpKINode Title="InvertedBooleanToVisibilityConverter.InvertedBooleanToVisibilityConverter конструктор" Url="html/M_PZone_Wpf_Converters_InvertedBooleanToVisibilityConverter__ctor.htm" />
+  <HelpKINode Title="MathConverter - класс">
+    <HelpKINode Title="MathConverter - класс" Url="html/T_PZone_Wpf_Converters_MathConverter.htm" />
+    <HelpKINode Title="конструктор" Url="html/M_PZone_Wpf_Converters_MathConverter__ctor.htm" />
+    <HelpKINode Title="методы" Url="html/Methods_T_PZone_Wpf_Converters_MathConverter.htm" />
+    <HelpKINode Title="о MathConverter - класс" Url="html/T_PZone_Wpf_Converters_MathConverter.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MathConverter.Convert метод" Url="html/M_PZone_Wpf_Converters_MathConverter_Convert.htm" />
+  <HelpKINode Title="MathConverter.ConvertBack метод" Url="html/M_PZone_Wpf_Converters_MathConverter_ConvertBack.htm" />
+  <HelpKINode Title="MathConverter.MathConverter конструктор" Url="html/M_PZone_Wpf_Converters_MathConverter__ctor.htm" />
+  <HelpKINode Title="PZone.Wpf - пространство имён" Url="html/N_PZone_Wpf.htm" />
+  <HelpKINode Title="PZone.Wpf.Command - класс" Url="html/T_PZone_Wpf_Command.htm" />
+  <HelpKINode Title="PZone.Wpf.Converters - пространство имён" Url="html/N_PZone_Wpf_Converters.htm" />
+  <HelpKINode Title="PZone.Wpf.Converters.InvertedBooleanToVisibilityConverter - класс" Url="html/T_PZone_Wpf_Converters_InvertedBooleanToVisibilityConverter.htm" />
+  <HelpKINode Title="PZone.Wpf.Converters.MathConverter - класс" Url="html/T_PZone_Wpf_Converters_MathConverter.htm" />
+</HelpKI>

@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Id="e6148445-c1b0-4eb0-8f2e-72a15c168057" Title="Пространства имен" Url="html/R_Project_Documentation.htm">
+    <HelpTOCNode Id="2700f4e3-ddfe-43c8-aff6-3a65ce365b63" Title="PZone.Wpf" Url="html/N_PZone_Wpf.htm">
+      <HelpTOCNode Id="9d2a161a-1d52-4a6b-a13e-bbec5cd0ffc8" Title="Command - класс" Url="html/T_PZone_Wpf_Command.htm">
+        <HelpTOCNode Title="Command - конструктор" Url="html/M_PZone_Wpf_Command__ctor.htm" />
+        <HelpTOCNode Id="b61f1e93-6cf0-4294-9c0c-25cef7defe2f" Title="Command - методы" Url="html/Methods_T_PZone_Wpf_Command.htm">
+          <HelpTOCNode Title="CanExecute - метод" Url="html/M_PZone_Wpf_Command_CanExecute.htm" />
+          <HelpTOCNode Title="Execute - метод" Url="html/M_PZone_Wpf_Command_Execute.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="221b8b10-d155-40a3-ae87-637d65b08fa9" Title="Command - события" Url="html/Events_T_PZone_Wpf_Command.htm">
+          <HelpTOCNode Title="CanExecuteChanged - событие" Url="html/E_PZone_Wpf_Command_CanExecuteChanged.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="98dac929-a836-465b-aa9f-fee95818ada0" Title="PZone.Wpf.Converters" Url="html/N_PZone_Wpf_Converters.htm">
+      <HelpTOCNode Id="4efffa5c-146e-4bce-9300-fe86776d1d39" Title="InvertedBooleanToVisibilityConverter - класс" Url="html/T_PZone_Wpf_Converters_InvertedBooleanToVisibilityConverter.htm">
+        <HelpTOCNode Title="InvertedBooleanToVisibilityConverter - конструктор" Url="html/M_PZone_Wpf_Converters_InvertedBooleanToVisibilityConverter__ctor.htm" />
+        <HelpTOCNode Id="89a08160-8680-406d-bd3f-5336c3ddf073" Title="InvertedBooleanToVisibilityConverter - методы" Url="html/Methods_T_PZone_Wpf_Converters_InvertedBooleanToVisibilityConverter.htm">
+          <HelpTOCNode Title="Convert - метод" Url="html/M_PZone_Wpf_Converters_InvertedBooleanToVisibilityConverter_Convert.htm" />
+          <HelpTOCNode Title="ConvertBack - метод" Url="html/M_PZone_Wpf_Converters_InvertedBooleanToVisibilityConverter_ConvertBack.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="1113b0e9-c2f3-45b2-8d1f-66d815f4a70f" Title="MathConverter - класс" Url="html/T_PZone_Wpf_Converters_MathConverter.htm">
+        <HelpTOCNode Title="MathConverter - конструктор" Url="html/M_PZone_Wpf_Converters_MathConverter__ctor.htm" />
+        <HelpTOCNode Id="5538c9d8-0343-47c2-a312-f222ba134491" Title="MathConverter - методы" Url="html/Methods_T_PZone_Wpf_Converters_MathConverter.htm">
+          <HelpTOCNode Title="Convert - метод" Url="html/M_PZone_Wpf_Converters_MathConverter_Convert.htm" />
+          <HelpTOCNode Title="ConvertBack - метод" Url="html/M_PZone_Wpf_Converters_MathConverter_ConvertBack.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>
